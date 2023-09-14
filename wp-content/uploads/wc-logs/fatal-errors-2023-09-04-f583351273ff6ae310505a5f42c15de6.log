@@ -1,0 +1,6 @@
+2023-09-04T07:39:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-filesystem-direct.php on line 82
+
+2023-09-04T10:00:03+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\class-wp-privacy-data-export-requests-list-table.php on line 10
+
+2023-09-04T11:18:04+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress\wp-admin\includes\deprecated.php on line 332
+
